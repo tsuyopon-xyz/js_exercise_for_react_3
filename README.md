@@ -1,6 +1,6 @@
 # レポジトリ内容
 
-この課題は、Web白熱教室のReact課題その3「[【エクササイズ】インクリメント・デクリメント機能を持ったカウンターを作る](https://tsuyopon.xyz/learning-contents/web-dev/javascript/react/js-exercise-for-react-3/)」の課題レポジトリになります。
+この課題は、Web白熱教室のReact課題その3「[【エクササイズ】カウンター機能を持つReactコンポーネントを実装する](https://tsuyopon.xyz/learning-contents/web-dev/javascript/react/js-exercise-for-react-3/)」の課題レポジトリになります。
 
 ## 課題
 
