@@ -47,9 +47,8 @@
 課題をこなしていて、行き詰まったら以下の資料を参考にしていただければ解答にたどり着けるかと思います。
 
 - Web白熱教室
-    - [【React】コンポーネントの概念・種類を理解する](https://tsuyopon.xyz/learning-contents/web-dev/javascript/react/understand-react-components/)
-    - [【React】コンポーネントで使うpropsの使い方を理解する](https://tsuyopon.xyz/learning-contents/web-dev/javascript/react/understand-props/)
-    - [【React】関数コンポーネントの作り方](https://tsuyopon.xyz/learning-contents/web-dev/javascript/react/how-to-create-class-components/)
-    - [【React】クラスコンポーネントの作り方](https://tsuyopon.xyz/learning-contents/web-dev/javascript/react/how-to-create-class-components/)
+    - [【React】コンポーネントのstateの使い方を理解する](https://tsuyopon.xyz/learning-contents/web-dev/javascript/react/understand-and-how-to-use-the-state/)
+    - [【React】コンポーネントのライフサイクルを理解する【ライフサイクル図付き】](https://tsuyopon.xyz/learning-contents/web-dev/javascript/react/understand-the-lifecycle-of-components/)
+    - [【React】コンポーネントにクリックイベントを実装する](https://tsuyopon.xyz/learning-contents/web-dev/javascript/react/how-to-handle-click-events/)
 - プルリクエスト(`git flow` の開発スタイルで機能毎にブランチを分けて実装を進める際に参考になるページ)
     - https://github.com/tsuyopon-xyz/api_server_with_mock_db/pulls?q=is%3Apr+is%3Aclosed
