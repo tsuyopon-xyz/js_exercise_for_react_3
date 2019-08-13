@@ -1,7 +1,13 @@
 import React from 'react';
+import Counter from './components/Counter/Counter'
 
 function App() {
-  return <h1>課題3</h1>;
+  return (
+    <div>
+      <h1>カウンター</h1>
+      <Counter />
+    </div>
+  );
 }
 
 export default App;
